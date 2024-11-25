@@ -1,10 +1,3 @@
-//// g++ main.cpp  ;   Start-process a.exe  ; python visualize.py
-//  main.cpp
-//  chain
-//
-//  Created by Aleksei Sokolov on 03.08.18.
-//  Copyright © 2018 Aleksei Sokolov. All rights reserved.
-//pyth
 #include <iostream>
 #include <complex>
 #include <iomanip>
